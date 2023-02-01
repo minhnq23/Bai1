@@ -16,6 +16,8 @@ const AppButton = ({ onPress, title }) => (
 );
 
 
+
+
 const list = [
   {
     id: 1,
